@@ -1,3 +1,5 @@
+//NEEDED TO USE SOLUTION
+
 console.log("Let's get this party started!");
 
 // const form = document.querySelector('#searchform'); 
