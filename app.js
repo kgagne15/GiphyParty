@@ -35,6 +35,10 @@ $('form').on('submit', async function(e){
     // console.log(res.data)
 })
 
+$('#remove').on('click', function(){
+    $container.empty();
+})
+
 
 
 // const $gifArea = $("#gif-area");
